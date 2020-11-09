@@ -2,8 +2,6 @@
 
 public class Player : MonoBehaviour
 {
-    public float aze = 1f;
-
     Movement movement;
 
     // Start is called before the first frame update
@@ -31,7 +29,6 @@ public class Player : MonoBehaviour
         float torque = Input.GetAxisRaw("Horizontal");
 
         movement.direction = transform.forward * forward;
-
-        GetComponent<Rigidbody>().AddTorque(new Vector3(0, torque * aze, 0), ForceMode.Acceleration);
+        movement.rotateDirection = torque;
     }
 }
