@@ -2,7 +2,11 @@
 
 public class Player : MonoBehaviour
 {
+    public Transform headTransform;
+
     Movement movement;
+
+    public float forfun = 0;
 
     // Start is called before the first frame update
     void Start()
@@ -30,5 +34,7 @@ public class Player : MonoBehaviour
 
         movement.direction = transform.forward * forward;
         movement.rotateDirection = torque;
+
+        headTransform.Rotate(new Vector3(0, forfun, 0) * Time.deltaTime);
     }
 }
