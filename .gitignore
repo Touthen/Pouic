@@ -55,6 +55,9 @@ sysinfo.txt
 *.apk
 *.unitypackage
 
+# Blender backup files
+*.blend1
+
 # Crashlytics generated file
 crashlytics-build.properties
 

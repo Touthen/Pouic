@@ -13,6 +13,7 @@ public class Player : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        /* // Global
         Vector3 direction = new Vector3();
 
         direction.x = Input.GetAxisRaw("Horizontal");
@@ -21,5 +22,13 @@ public class Player : MonoBehaviour
         direction.Normalize();
 
         movement.direction = direction;
+        */
+
+        // Local
+        float forward = Input.GetAxisRaw("Vertical");
+        float torque = Input.GetAxisRaw("Horizontal");
+
+        movement.direction = transform.forward * forward;
+        movement.rotateDirection = torque;
     }
 }
