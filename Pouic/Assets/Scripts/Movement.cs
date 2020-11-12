@@ -21,7 +21,7 @@ public class Movement : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        rb.AddForce(direction * speed, ForceMode.Acceleration);
+        rb.AddForce(direction * speed, ForceMode.VelocityChange);
 
         rb.AddTorque(new Vector3(0, rotateDirection * rotateSpeed, 0), ForceMode.Acceleration);
     }
@@ -29,6 +29,8 @@ public class Movement : MonoBehaviour
     /*
     private void FixedUpdate()
     {
+        // for replace Rigidbody Drag
+
         //rb.AddForce(-rb.velocity * acceleration * 2);
     }
     */
