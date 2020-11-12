@@ -211,77 +211,8 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 29
+  m_RootOrder: 15
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1001 &35662235
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -39.252243
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.3
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 34.577896
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_RootOrder
-      value: 6
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_Name
-      value: Poteau electrique (7)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: b54b055aa3aaf9543be00aa25e1399b4, type: 3}
 --- !u!1 &174876702
 GameObject:
   m_ObjectHideFlags: 0
@@ -372,7 +303,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 34
+  m_RootOrder: 20
   m_LocalEulerAnglesHint: {x: 0, y: -90, z: 0}
 --- !u!1 &224813717
 GameObject:
@@ -464,7 +395,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 28
+  m_RootOrder: 14
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &236958925
 GameObject:
@@ -556,7 +487,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 27
+  m_RootOrder: 13
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &267966992
 GameObject:
@@ -648,7 +579,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 22
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &321177933
 GameObject:
@@ -740,77 +671,8 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 35
+  m_RootOrder: 21
   m_LocalEulerAnglesHint: {x: -90, y: 0, z: 0}
---- !u!1001 &421301201
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 1.0677032
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.3
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -43.615868
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_RootOrder
-      value: 4
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_Name
-      value: Poteau electrique (10)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: b54b055aa3aaf9543be00aa25e1399b4, type: 3}
 --- !u!1 &437801041
 GameObject:
   m_ObjectHideFlags: 0
@@ -901,7 +763,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 30
+  m_RootOrder: 16
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &456434464
 GameObject:
@@ -993,146 +855,8 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 24
+  m_RootOrder: 10
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1001 &500003422
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -25.50718
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.3
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 1.3122432
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_RootOrder
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_Name
-      value: Poteau electrique (12)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: b54b055aa3aaf9543be00aa25e1399b4, type: 3}
---- !u!1001 &529808538
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 33.911293
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.3
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -13.098854
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_RootOrder
-      value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_Name
-      value: Poteau electrique (9)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: b54b055aa3aaf9543be00aa25e1399b4, type: 3}
 --- !u!1 &689474843
 GameObject:
   m_ObjectHideFlags: 0
@@ -1197,7 +921,7 @@ Transform:
   - {fileID: 1095515679}
   - {fileID: 1367322134}
   m_Father: {fileID: 0}
-  m_RootOrder: 16
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &689474847
 MonoBehaviour:
@@ -1215,12 +939,6 @@ MonoBehaviour:
   rotateSpeed: 1
   direction: {x: 0, y: 0, z: 0}
   rotateDirection: 0
---- !u!4 &690324056 stripped
-Transform:
-  m_CorrespondingSourceObject: {fileID: 7958803695428196290, guid: 6931fd0296b6f6141804e38b7407b42d,
-    type: 3}
-  m_PrefabInstance: {fileID: 8041887999686697874}
-  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &731801516
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1290,75 +1008,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ce59b5b7ff493074d9511ae34281c120, type: 3}
---- !u!1001 &768544775
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -33.07159
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.3
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -19.26212
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_RootOrder
-      value: 7
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_Name
-      value: Poteau electrique (6)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: b54b055aa3aaf9543be00aa25e1399b4, type: 3}
 --- !u!1 &893857125
 GameObject:
   m_ObjectHideFlags: 0
@@ -1449,7 +1098,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 32
+  m_RootOrder: 18
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &963194225
 GameObject:
@@ -1703,7 +1352,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 23
+  m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1029786059
 PrefabInstance:
@@ -1773,6 +1422,11 @@ PrefabInstance:
       value: Plateau lave
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 92ceb3c9b12d8e147a8f022442bb543e,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1985808047179594270, guid: 92ceb3c9b12d8e147a8f022442bb543e,
         type: 3}
       propertyPath: m_IsActive
       value: 1
@@ -1869,7 +1523,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 25
+  m_RootOrder: 11
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1095515678 stripped
 GameObject:
@@ -1987,8 +1641,28 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 26
+  m_RootOrder: 12
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1191819565 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1492026503766907698, guid: 92ceb3c9b12d8e147a8f022442bb543e,
+    type: 3}
+  m_PrefabInstance: {fileID: 1029786059}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &1191819569
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1191819565}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 222441490558274877, guid: 92ceb3c9b12d8e147a8f022442bb543e, type: 3}
 --- !u!1 &1248177858
 GameObject:
   m_ObjectHideFlags: 0
@@ -2079,7 +1753,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 21
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1367322133
 GameObject:
@@ -2209,7 +1883,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: e8338436483746d488df06bfe84db5b8,
         type: 3}
       propertyPath: m_RootOrder
-      value: 14
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: e8338436483746d488df06bfe84db5b8,
         type: 3}
@@ -2233,150 +1907,6 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e8338436483746d488df06bfe84db5b8, type: 3}
---- !u!20 &1388737905 stripped
-Camera:
-  m_CorrespondingSourceObject: {fileID: 6724151059369463912, guid: 6931fd0296b6f6141804e38b7407b42d,
-    type: 3}
-  m_PrefabInstance: {fileID: 8041887999686697874}
-  m_PrefabAsset: {fileID: 0}
---- !u!1001 &1449795879
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0.7076236
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.3
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -7.363687
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_RootOrder
-      value: 13
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_Name
-      value: Poteau electrique
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: b54b055aa3aaf9543be00aa25e1399b4, type: 3}
---- !u!1001 &1469002789
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 28.706299
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.3
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -37.863525
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_RootOrder
-      value: 10
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_Name
-      value: Poteau electrique (3)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: b54b055aa3aaf9543be00aa25e1399b4, type: 3}
 --- !u!1 &1559724807
 GameObject:
   m_ObjectHideFlags: 0
@@ -2467,7 +1997,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 33
+  m_RootOrder: 19
   m_LocalEulerAnglesHint: {x: 0, y: 90, z: 0}
 --- !u!1 &1583475539
 GameObject:
@@ -2559,215 +2089,28 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 31
+  m_RootOrder: 17
   m_LocalEulerAnglesHint: {x: 180, y: 0, z: 0}
---- !u!1001 &1645939957
-PrefabInstance:
+--- !u!1 &1705836744 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1985808047179594270, guid: 92ceb3c9b12d8e147a8f022442bb543e,
+    type: 3}
+  m_PrefabInstance: {fileID: 1029786059}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &1705836748
+MeshCollider:
   m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -13.344354
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.3
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 19.889912
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_RootOrder
-      value: 12
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_Name
-      value: Poteau electrique (1)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: b54b055aa3aaf9543be00aa25e1399b4, type: 3}
---- !u!1001 &1727741239
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -3.1076808
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.3
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 36.093937
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_RootOrder
-      value: 3
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_Name
-      value: Poteau electrique (11)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: b54b055aa3aaf9543be00aa25e1399b4, type: 3}
---- !u!1001 &1936596055
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -33.571747
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.3
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -36.076164
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_RootOrder
-      value: 9
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_Name
-      value: Poteau electrique (4)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: b54b055aa3aaf9543be00aa25e1399b4, type: 3}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1705836744}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 8393648460256408341, guid: 92ceb3c9b12d8e147a8f022442bb543e, type: 3}
 --- !u!1 &1987767100
 GameObject:
   m_ObjectHideFlags: 0
@@ -2858,146 +2201,8 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 18
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
---- !u!1001 &1997788578
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 33.867447
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.3
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 32.92813
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_RootOrder
-      value: 11
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_Name
-      value: Poteau electrique (2)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: b54b055aa3aaf9543be00aa25e1399b4, type: 3}
---- !u!1001 &2025602853
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 20.1
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.3
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 11.808474
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_RootOrder
-      value: 15
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_Name
-      value: Poteau electrique (8)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: b54b055aa3aaf9543be00aa25e1399b4, type: 3}
 --- !u!1 &2092948785
 GameObject:
   m_ObjectHideFlags: 0
@@ -3090,77 +2295,8 @@ Transform:
   m_LocalScale: {x: 10, y: 10, z: 10}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 17
+  m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1001 &2131485798
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -19.15497
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -0.3
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -23.917679
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_RootOrder
-      value: 8
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: -8679921383154817045, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 919132149155446097, guid: b54b055aa3aaf9543be00aa25e1399b4,
-        type: 3}
-      propertyPath: m_Name
-      value: Poteau electrique (5)
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: b54b055aa3aaf9543be00aa25e1399b4, type: 3}
 --- !u!1001 &5821135858508400698
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3176,7 +2312,7 @@ PrefabInstance:
     - target: {fileID: 5821135859100242818, guid: 381ef94aa95cf284d9f3ddace2a07b5c,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.85
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 5821135859100242818, guid: 381ef94aa95cf284d9f3ddace2a07b5c,
         type: 3}
@@ -3206,7 +2342,7 @@ PrefabInstance:
     - target: {fileID: 5821135859100242818, guid: 381ef94aa95cf284d9f3ddace2a07b5c,
         type: 3}
       propertyPath: m_RootOrder
-      value: 20
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 5821135859100242818, guid: 381ef94aa95cf284d9f3ddace2a07b5c,
         type: 3}
@@ -3223,10 +2359,25 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 5821135859100242828, guid: 381ef94aa95cf284d9f3ddace2a07b5c,
+        type: 3}
+      propertyPath: speed
+      value: 0.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5821135859100242828, guid: 381ef94aa95cf284d9f3ddace2a07b5c,
+        type: 3}
+      propertyPath: rotateSpeed
+      value: 7
+      objectReference: {fileID: 0}
     - target: {fileID: 5821135859100242831, guid: 381ef94aa95cf284d9f3ddace2a07b5c,
         type: 3}
       propertyPath: m_Name
       value: PlayerTest
+      objectReference: {fileID: 0}
+    - target: {fileID: 5821135859100242831, guid: 381ef94aa95cf284d9f3ddace2a07b5c,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6287708175552009585, guid: 381ef94aa95cf284d9f3ddace2a07b5c,
         type: 3}
@@ -3255,132 +2406,3 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 381ef94aa95cf284d9f3ddace2a07b5c, type: 3}
---- !u!1001 &8041887999686697874
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 2781341253393468627, guid: 6931fd0296b6f6141804e38b7407b42d,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2781341253393468627, guid: 6931fd0296b6f6141804e38b7407b42d,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2781341253393468627, guid: 6931fd0296b6f6141804e38b7407b42d,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2781341253393468627, guid: 6931fd0296b6f6141804e38b7407b42d,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2781341253393468627, guid: 6931fd0296b6f6141804e38b7407b42d,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2781341253393468627, guid: 6931fd0296b6f6141804e38b7407b42d,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2781341253393468627, guid: 6931fd0296b6f6141804e38b7407b42d,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 2781341253393468627, guid: 6931fd0296b6f6141804e38b7407b42d,
-        type: 3}
-      propertyPath: m_RootOrder
-      value: 19
-      objectReference: {fileID: 0}
-    - target: {fileID: 2781341253393468627, guid: 6931fd0296b6f6141804e38b7407b42d,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2781341253393468627, guid: 6931fd0296b6f6141804e38b7407b42d,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2781341253393468627, guid: 6931fd0296b6f6141804e38b7407b42d,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3174163871011834419, guid: 6931fd0296b6f6141804e38b7407b42d,
-        type: 3}
-      propertyPath: m_Name
-      value: Player
-      objectReference: {fileID: 0}
-    - target: {fileID: 3174163871011834419, guid: 6931fd0296b6f6141804e38b7407b42d,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 5214157762743983798, guid: 6931fd0296b6f6141804e38b7407b42d,
-        type: 3}
-      propertyPath: headTransform
-      value: 
-      objectReference: {fileID: 690324056}
-    - target: {fileID: 5214157762743983798, guid: 6931fd0296b6f6141804e38b7407b42d,
-        type: 3}
-      propertyPath: forfun
-      value: 10
-      objectReference: {fileID: 0}
-    - target: {fileID: 5214157762743983798, guid: 6931fd0296b6f6141804e38b7407b42d,
-        type: 3}
-      propertyPath: camera
-      value: 
-      objectReference: {fileID: 1388737905}
-    - target: {fileID: 6107068302387913084, guid: 6931fd0296b6f6141804e38b7407b42d,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0.7069834
-      objectReference: {fileID: 0}
-    - target: {fileID: 6107068302387913084, guid: 6931fd0296b6f6141804e38b7407b42d,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6107068302387913084, guid: 6931fd0296b6f6141804e38b7407b42d,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6107068302387913084, guid: 6931fd0296b6f6141804e38b7407b42d,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.7072302
-      objectReference: {fileID: 0}
-    - target: {fileID: 6107068302387913084, guid: 6931fd0296b6f6141804e38b7407b42d,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7958803695428196290, guid: 6931fd0296b6f6141804e38b7407b42d,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0.7071068
-      objectReference: {fileID: 0}
-    - target: {fileID: 7958803695428196290, guid: 6931fd0296b6f6141804e38b7407b42d,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 0.7071068
-      objectReference: {fileID: 0}
-    - target: {fileID: 7958803695428196290, guid: 6931fd0296b6f6141804e38b7407b42d,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 90
-      objectReference: {fileID: 0}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 6931fd0296b6f6141804e38b7407b42d, type: 3}
