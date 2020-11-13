@@ -15,6 +15,31 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Fer12
+    second: {fileID: 2100000, guid: e511da86549d35c419444024638506e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fer2
+    second: {fileID: 2100000, guid: 3b6430bc4878e804e916f4f7eec9d916, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fer25
+    second: {fileID: 2100000, guid: 7a1ff2b35f810ff4dbf23fa8394ceb6c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fer3
+    second: {fileID: 2100000, guid: edf6518e452e1f6499a5305deb1cb088, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fer36
+    second: {fileID: 2100000, guid: ab32cd3d157e8334d8449c032ec2f114, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Laid1
     second: {fileID: 2100000, guid: 4a16b491a9b256645bee5e51645f9eeb, type: 2}
   - first:
@@ -22,6 +47,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Laid1.005
     second: {fileID: 2100000, guid: 4a16b491a9b256645bee5e51645f9eeb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Laid18
+    second: {fileID: 2100000, guid: 2911d2c780ff4784d958ff765c5edca4, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule

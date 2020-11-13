@@ -14,6 +14,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: Fer1
     second: {fileID: 2100000, guid: d6157e5e5f2cf2f46bbd4e2646115d0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Laid18
+    second: {fileID: 2100000, guid: 2911d2c780ff4784d958ff765c5edca4, type: 2}
   materials:
     materialImportMode: 1
     materialName: 0
