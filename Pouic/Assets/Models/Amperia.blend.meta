@@ -7,6 +7,21 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: Fer1
+    second: {fileID: 2100000, guid: d6157e5e5f2cf2f46bbd4e2646115d0d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fer11
+    second: {fileID: 2100000, guid: f34760eaa2ee91c428e7fb634a92373f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fer60
+    second: {fileID: 2100000, guid: cd3eb42702b9dff4aaf06eb8dee38e43, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: Laid1
     second: {fileID: 2100000, guid: 4a16b491a9b256645bee5e51645f9eeb, type: 2}
   materials:
